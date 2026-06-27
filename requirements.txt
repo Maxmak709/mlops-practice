@@ -1,5 +1,1 @@
-scikit-learn
-pyyaml
-joblib
-pre-commit
-ruff
+pip freeze > requirements.txt
