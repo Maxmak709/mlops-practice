@@ -22,7 +22,7 @@ jobs:
       - name: Установка зависимостей
         run: pip install -r requirements.txt
 
-      - name: Загрузка данных через DVC (из Cloud.ru)
+      - name: Загрузка данных через DVC
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_KEY }}
