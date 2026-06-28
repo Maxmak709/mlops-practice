@@ -6,3 +6,4 @@
     endpointurl = https://s3.cloud.ru
     region = us-east-1
     ssl_verify = false
+    s3_force_path_style = true
