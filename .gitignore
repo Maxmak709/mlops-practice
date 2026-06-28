@@ -9,3 +9,4 @@ __pycache__/
 
 !/data/.keep
 !/models/.keep
+/data.txt
