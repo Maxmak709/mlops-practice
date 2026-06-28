@@ -6,3 +6,4 @@
     access_key_id = f4773eff-dade-4fc2-8400-3ef49190afac:0e238975e174215ced307d55ffc683ad
     secret_access_key = 1447a29a370d628cd3bf183b2ff60c9a
     region = us-east-1
+    ssl_verify = false
